@@ -12,20 +12,8 @@ Attempt Counter: Keeps track of how many guesses it took you to find the number.
 
 Error Handling: Gracefully handles non-numeric input.
 
-🎮 How to Play
-Clone the Repository (or copy the code):
-If this were a GitHub repository, you'd clone it:
-
-git clone https://github.com/your-username/number-guessing-game.git
-cd number-guessing-game
-
-Since you have the code directly, save it as a Python file (e.g., guess_game.py).
-
-Run the Game:
-Open your terminal or command prompt, navigate to the directory where you saved the file, and run:
-
-python guess_game.py
-
+# 🎮 How to Play
+<br>
 Start Guessing!
 Follow the on-screen prompts. The game will tell you if your guess is too high or too low until you find the secret number.
 
